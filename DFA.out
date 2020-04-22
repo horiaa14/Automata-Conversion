@@ -1,0 +1,14 @@
+Numarul de stari : 4
+Lungimea alfabetului : 2
+a b 
+Starea initiala : 0
+Numarul de stari finale : 1
+4 
+Numarul de muchii : 7
+0 a 3
+1 a 1
+1 b 4
+3 a 3
+3 b 4
+4 a 1
+4 b 4

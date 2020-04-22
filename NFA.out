@@ -1,0 +1,36 @@
+Numarul de stari : 7
+Lungimea alfabetului : 2
+a b 
+Starea initiala : 0
+Numarul de stari finale : 5
+0 1 3 4 6 
+Numarul de muchii : 29
+0 a 0
+0 a 1
+0 b 1
+0 a 3
+0 b 3
+0 a 4
+0 b 4
+0 a 6
+0 b 6
+1 a 1
+1 b 1
+1 a 3
+1 a 4
+1 b 4
+1 a 6
+1 b 6
+3 a 1
+3 b 1
+3 a 3
+3 b 3
+3 a 4
+3 b 4
+3 a 6
+3 b 6
+4 b 1
+4 b 4
+4 a 6
+4 b 6
+6 b 6
